@@ -5,3 +5,5 @@
 |---------------------------------|------------------|
 | Add-Migration MigrationName | dotnet ef migrations add MigrationName |
 | Scaffold-DbContext   | dotnet ef dbcontext scaffold    |
+| Update-Database | dotnet ef database update |
+| Get-Migration | dotnet ef migrations list |
